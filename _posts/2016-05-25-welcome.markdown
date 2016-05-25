@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "6/25(土)技術書典 出展のお知らせ"
+date:   2016-05-25 12:13:22 +0900
+categories: news
+---
+6/25(土)に技術書オンリー同人誌即売会「[技術書典](https://techbookfest.org/)」にサークル参加します。  
+我がサークル**ゐろはカルタ**はA-11スペースにて、  
+**ウーパールーパーを支える技術**を頒布予定です！    
+
+ウーパールーパーの飼育を通して、その生態の謎や、  
+水中の化学反応等アクアリウム科学を学ぶ本です。  
+水槽を監視するWeb技術も紹介します。  
+
+理科の復習をしつつ、ちょっとした発見も散りばめ  
+誰でも楽しめる内容になっています。  
+
+![circlecut](http://wirohakaruta.github.io/tech/img/circlecut.png)  
+
+初の同人誌で不慣れではありますが、  
+飼育器具の展示など、スペースも楽しく出来るよう検討中です。  
+
+他の出展も面白そうなサークルが揃っているので、ぜひ遊びに来てください。  
+**6/25(土)**は秋葉原で僕と握手！  
+
+
+日時　：2016/6/25(土)  11:00-17:00 （頒布は完売次第終了)  
+参加費：無料  
+場所　：秋葉原通運会館  
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6479.964695613369!2d139.771128!3d35.702052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5df8636c51a7faaa!2z6YCa6YGL5Lya6aSo!5e0!3m2!1sja!2sjp!4v1464137527050" width="300" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>  
+　  
+![upa](http://wirohakaruta.github.io/tech/img/bunshin.jpg)  
+分身して見えたり、水って不思議♪  
