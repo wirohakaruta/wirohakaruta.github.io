@@ -15,5 +15,11 @@ permalink: /about/
 ウーパールーパーとハシビロコウを愛するエンジニア  
 Androidや女子部系の勉強会に出没  
 
+ウーパールーパーのカルタを飼育中  
+
+![karuta_image](http://wirohakaruta.github.io/img/marimo.jpg)  
+命名は妖狐×僕SS髏々宮カルタより。  
+色白にピンクのツインテール、ぼーっとしていて大食漢、  
+変態するなどそっくり。
 
 
