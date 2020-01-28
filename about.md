@@ -10,7 +10,7 @@ permalink: /about/
 お問い合わせは <a href="https://twitter.com/wiroha" target="_blank">twitter</a> もしくは <a href="mailto:wirohakaruta@gmail.com">メール</a> にてご連絡ください。  
 
 ### 作者紹介  
-![twitter_image](https://pbs.twimg.com/profile_images/697082727523155968/PDSCE6mp_200x200.jpg)  
+![twitter_image](http://wirohakaruta.github.io/img/my_twitter_icon.jpg)
 @wiroha  
 ウーパールーパーとハシビロコウを愛するエンジニア  
 Androidや女子部系の勉強会に出没  
@@ -21,5 +21,3 @@ Androidや女子部系の勉強会に出没
 命名は妖狐×僕SS髏々宮カルタより。  
 色白にピンクのツインテール、ぼーっとしていて大食漢、  
 変態するなどそっくり。
-
-
