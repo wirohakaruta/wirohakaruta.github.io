@@ -10,7 +10,7 @@ permalink: /about/
 お問い合わせは <a href="https://twitter.com/wiroha" target="_blank">twitter</a> もしくは <a href="mailto:wirohakaruta@gmail.com">メール</a> にてご連絡ください。  
 
 ### 作者紹介  
-![twitter_image](http://wirohakaruta.github.io/img/my_twitter_icon.jpg)
+![twitter_image](http://wirohakaruta.github.io/img/my_twitter_icon.jpg)  
 @wiroha  
 ウーパールーパーとハシビロコウを愛するエンジニア  
 Androidや女子部系の勉強会に出没  
