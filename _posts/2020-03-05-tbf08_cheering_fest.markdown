@@ -16,7 +16,7 @@ categories: news
 販売形態：電子、電子＋紙
 
 【既刊】ウーパールーパーの飼育と理科を学べる本「ウーパールーパーを支える技術」
-![upa_book1](http://wirohakaruta.github.io/img/upa_book1.png)  
+![upa_book1](http://wirohakaruta.github.io/img/upa_book1.jpg)  
 ![upa_book2](http://wirohakaruta.github.io/img/upa_book2.png)  
 ![upa_book3](http://wirohakaruta.github.io/img/upa_book3.png)  
 販売形態：電子
@@ -28,7 +28,4 @@ categories: news
 いまは当日着ようと準備していたこの服の行き場に少し困っていますｗ
 表紙のキャラクターとおそろいで楽しむつもりでしたが…こればかりはオンライン化は難しいですね。
 
-![wear](http://wirohakaruta.github.io/img/wear.png)  
-
-
-![tbf08circlecut](http://wirohakaruta.github.io/img/tbf08circlecut.png)  
+![wear](http://wirohakaruta.github.io/img/wear.jpg)  
