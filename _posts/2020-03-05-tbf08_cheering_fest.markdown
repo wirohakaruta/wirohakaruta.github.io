@@ -28,4 +28,7 @@ categories: news
 いまは当日着ようと準備していたこの服の行き場に少し困っていますｗ
 表紙のキャラクターとおそろいで楽しむつもりでしたが…こればかりはオンライン化は難しいですね。
 
-![wear](http://wirohakaruta.github.io/img/tbf08circlecut.png)  
+![wear](http://wirohakaruta.github.io/img/wear.png)  
+
+
+![tbf08circlecut](http://wirohakaruta.github.io/img/tbf08circlecut.png)  
