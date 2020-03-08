@@ -19,7 +19,7 @@ categories: news
 応援祭で物理本も取り扱ってもらいますが、どうしてもイベント当日より売れ行きは落ちると思うので、少しでも売れたらいいなという気持ちです…販売0冊ですべて返送されたら切ないですし…
 
 【既刊】ウーパールーパーの飼育と理科本「ウーパールーパーを支える技術」（販売形態：電子）  
-販売ページ [https://techbookfest.org/product/5651199835504640](https://techbookfest.org/product/6402134434119680)  
+販売ページ [https://techbookfest.org/product/5651199835504640](https://techbookfest.org/product/5651199835504640)  
 
 ![upa_book1](http://wirohakaruta.github.io/img/upa_book1.jpg)  
 ![upa_book2](http://wirohakaruta.github.io/img/upa_book2.png)  
