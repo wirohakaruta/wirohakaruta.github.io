@@ -29,6 +29,7 @@ categories: news
 イラストレータでの図解、InDesignでの組版と今見ても作り込みがすごいです。
 
 まだ開始前で販売URLの告知はできませんが、[技術書典公式サイト](https://techbookfest.org) をぜひチェックしていてください！
+追記：オープンしました！[応援祭 弊サークル検索結果](https://techbookfest.org/market/search?q=%22%E3%82%90%E3%82%8D%E3%81%AF%E3%82%AB%E3%83%AB%E3%82%BF%22)
 
 
 いまは当日着ようと準備していたこの服の行き場に少し困っていますｗ
