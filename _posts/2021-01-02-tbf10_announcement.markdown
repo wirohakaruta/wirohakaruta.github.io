@@ -9,7 +9,7 @@ categories: news
 
 【新刊】ITエンジニア英会話例文集＆ツール集（販売形態：電子）  
 販売ページ [https://techbookfest.org/product/5861370425769984](https://techbookfest.org/product/5861370425769984)  
-![it_english_hyoshi](http://wirohakaruta.github.io/img/it_english_hyoshi.png)  
+![it_english_hyoshi](http://wirohakaruta.github.io/img/it_english_hyoshi_thumb.png)  
 
 日本語部署から英語部署へ異動となった実体験を元に書きました。
 英会話に自信がない方に向けて、とりあえずチートシートとして使ってもらおうという本です。
